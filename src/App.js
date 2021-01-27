@@ -1,5 +1,5 @@
 import './App.css';
-import LoginForm from './LoginForm';
+import Practice2 from './Practice2';
 
 function App() {
   return (
@@ -9,7 +9,7 @@ function App() {
           Passing props through Components.
         </h1>
       </header>
-      <LoginForm />
+      <Practice2 />
     </>
   );
 }
