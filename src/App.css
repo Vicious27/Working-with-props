@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  margin: auto;
+  background-color: #282c34;
+  color: rgb(49, 115, 146);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: max ;
+  height: 100px;
+}
+
+h1 {
+ margin-left: .8em;
+ text-align: center;
+}
+
+p {
+  color: crimson;
+  margin-top: 2em;
+  text-align: center;
+}
+
+hr {
+  width: 12em;
+  border-radius: .3em;
+  border: rgba(88, 34, 88, 0.945);
+  height: .4em;
+  margin: auto;
+  background: rgba(67, 29, 82, 0.856);
+}
+
